@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Vue,React,Node.js**, or anything related to MEV/RN stack and related technologies
 
-- 📫 How to reach me at **[Linkedin](https://www.linkedin.com/in/avior)**
+- 📫 How to reach me at [Linkedin](https://www.linkedin.com/in/avior)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
