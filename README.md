@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [E2E Web boilerplate](https://github.com/aviorp/papito-web-boilerplate)
 
-- 🌱 I’m currently learning **AWS,Golang,Flutter**
+- 🌱 I’m currently learning **AWS Cloud Solutions,Golang,Flutter**
 
-- 💬 Ask me about **Vue,React,Node.js**
+- 💬 Ask me about **Vue,React,Node.js**, or anything related to MEV/RN stack and related technologies
 
-- 📫 How to reach me **https://www.linkedin.com/in/avior/**
+- 📫 How to reach me at **[Linkedin](https://www.linkedin.com/in/avior)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
