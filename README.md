@@ -2,10 +2,6 @@
 <h3 align="center">A passionate Full-Stack developer from Israel</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aviorp&label=Profile%20views&color=0e75b6&style=flat" alt="aviorp" /> </p>
-<p>
- [![Papito CI](https://github.com/aviorp/node-ts-server-boilerplate/actions/workflows/deploy.yml/badge.svg)](https://github.com/aviorp/node-ts-server-boilerplate/actions/workflows/deploy.yml)
-
-</p>
 
 - 🔭 I’m currently working on [E2E Web boilerplate](https://github.com/aviorp/papito-web-boilerplate)
 
