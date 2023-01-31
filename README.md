@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [E2E Web boilerplate](https://github.com/aviorp/papito-web-boilerplate)
 
-- 🌱 I’m currently learning **AWS Cloud Solutions,Github Actions,Bash**
+- 🌱 I’m currently learning **AWS Cloud Solutions,K8S,Github Actions,Bash**
 
 - 💬 Ask me about **Vue,React,Node.js**, or anything related to MEV/RN stack and related technologies
 
