@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aviorp&label=Profile%20views&color=0e75b6&style=flat" alt="aviorp" /> </p>
 
-- 🔭 I’m currently working on [E2E Web boilerplate](https://github.com/aviorp/papito-web-boilerplate)
+- 🔭 I’m currently working on [Node + TS Server Boilerplate](https://github.com/aviorp/node-ts-server-boilerplate)
 
 - 🌱 I’m currently learning **AWS Cloud Solutions,K8S,Github Actions,Bash**
 
