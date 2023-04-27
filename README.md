@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Node + TS Server Boilerplate](https://github.com/aviorp/node-ts-server-boilerplate)
 
-- 🌱 I’m currently learning **AWS Cloud Solutions,K8S,Github Actions,Bash**
+- 🌱 I’m currently learning **AWS Cloud Solutions,K8S,Github Actions,Terraform**
 
 - 💬 Ask me about **Vue,React,Node.js**, or anything related to MEV/RN stack and related technologies
 
