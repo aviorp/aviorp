@@ -87,7 +87,6 @@
           height="40"
         />
       </a>
-
       <!-- Backend -->
       <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img
@@ -121,7 +120,6 @@
           height="40"
         />
       </a>
-
       <!-- Cloud -->
       <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img
@@ -138,7 +136,6 @@
           height="40"
         />
       </a>
-
       <!-- Other -->
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img
@@ -156,7 +153,6 @@
           height="40"
         />
       </a>
-
       <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
         <img
           src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
