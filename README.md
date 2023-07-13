@@ -13,7 +13,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-    <p align="left">
+    <p align="left" style="background-color:#fff">
   <!-- Frontend -->
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
     <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" />
