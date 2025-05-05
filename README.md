@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **FLUXCD,**
 
-- 💬 Ask me about **Vue,React,Node.js**, or anything related to MEV/RN stack and related technologies
+- 💬 Ask me about **Vue,React,Node.js,Go**, or anything related to MEV/RN stack and related technologies
 
 - 📫 You can reach me at [Linkedin](https://www.linkedin.com/in/avior)
 
