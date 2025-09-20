@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aviorp&label=Profile%20views&color=0e75b6&style=flat" alt="aviorp" /> </p>
 
+# 💫 About Me:
 - 🔭 I’m currently working on new application :), 
 
 - 🌱 I’m currently learning **FLUXCD,**
@@ -10,8 +11,6 @@
 - 💬 Ask me about **Vue,React,Node.js,Go**, or anything related to MEV/RN stack and related technologies
 
 - 📫 You can reach me at [Linkedin](https://www.linkedin.com/in/avior)
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
